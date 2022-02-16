@@ -1,6 +1,10 @@
 --Cuna Execute
 --Open 소스 입니다!
-
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Execute";
+    Text = "CunaExecute | ??? | Roblox Studto";
+    Duration = 10;
+    })
 local ScreenGui = Instance.new("ScreenGui")
 local main = Instance.new("Frame")
 local ScriptExecute = Instance.new("TextButton")
