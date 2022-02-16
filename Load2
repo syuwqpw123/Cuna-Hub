@@ -8,5 +8,5 @@ if game.PlaceId==8671033986 then ---태비 부대!
 lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/jackstudiogame")
 end
 if nouni==false then
-lo("https://pastebin.com/raw/7iHtqpES")
+lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/CunaExecute")
 end
