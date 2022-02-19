@@ -4,7 +4,10 @@ local function lo(l)
 loadstring(game:HttpGet(l,true))()
 nouni=true
 end
-if game.PlaceId==8671033986 then ---태비 부대!
+if game.PlaceId==8671033986 then ---태비 부대!(잭 스튜디오)
+lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/jackstudiogame")
+end
+if game.PlaceId==8525379646 then ---태비 부대!(잭 랜드)
 lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/jackstudiogame")
 end
 if nouni==false then
