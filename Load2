@@ -10,6 +10,9 @@ end
 if game.PlaceId==8525379646 then ---태비 부대!(잭 랜드)
 lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/jackstudiogame")
 end
+if game.PlaceId==8013576921 then ---아이스부대
+lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/ice")
+end
 if nouni==false then
 lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/CunaExecute")
 end
