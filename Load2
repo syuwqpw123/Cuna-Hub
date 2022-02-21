@@ -13,6 +13,9 @@ end
 if game.PlaceId==8013576921 then ---아이스부대
 lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/ice")
 end
+if game.PlaceId==7837993751 then ---양선교도소
+lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/Yan")
+end
 if nouni==false then
 lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/CunaExecute")
 end
