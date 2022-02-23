@@ -16,6 +16,9 @@ end
 if game.PlaceId==7837993751 then ---양선교도소
 lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/Yan")
 end
+if game.PlaceId==8737606263 then ---고양이 부대
+lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/catary")
+end
 if nouni==false then
 lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/CunaExecute")
 end
