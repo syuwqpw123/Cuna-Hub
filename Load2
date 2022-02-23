@@ -1,7 +1,7 @@
 ---open
 nouni=false
 local function lo(l)
-loadstring(game:HttpGet(l,true))()
+loadstring(game:HttpGetAsync(l,true))()
 nouni=true
 end
 if game.PlaceId==8671033986 then ---태비 부대!(잭 스튜디오)
