@@ -19,6 +19,9 @@ end
 if game.PlaceId==8737606263 then ---고양이 부대
 lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/catary")
 end
-if nouni==false then
+if game.PlaceId==8737606263 then ---청월 부대
+lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/Jean")
+end
+if nouni==false then ---CunaExecute 스크립트 실행기
 lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/CunaExecute")
 end
