@@ -22,6 +22,9 @@ end
 if game.PlaceId==8464900405 then ---청월 부대
 lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/Jean")
 end
+if game.PlaceId==8464900405 then ---백호 부대
+lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/100")
+end
 if nouni==false then ---CunaExecute 스크립트 실행기
 lo("https://raw.githubusercontent.com/syuwqpw123/Cuna-Hub/main/CunaExecute")
 end
