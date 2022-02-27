@@ -1,6 +1,5 @@
 --Cuna Execute
 --Open 소스 입니다!
---와우 친구들! 치원이 어짜피 오픈 소스인데 공지방에서 수정하면 니들꺼라면서 정말 정말 재미있게 말하시네요! 정말 재미있으신 분이에요! ㅋㅋ
 game.StarterGui:SetCore("SendNotification", {
     Title = "Execute";
     Text = "CunaExecute | ??? | Roblox Studto";
